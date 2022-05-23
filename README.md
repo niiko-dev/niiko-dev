@@ -29,7 +29,7 @@
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/-JavaScript-ad9d1a?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- HTML -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
@@ -55,11 +55,11 @@
 #### Pinned
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
+<a href="https://github.com/niiko-dev/notification-api">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=notification-api&border_color=0298d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0298d8" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<a href="https://github.com/niiko-dev/javascript-tricks">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=javascript-tricks&border_color=0298d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0298d8" />
 </a>
 </p>
