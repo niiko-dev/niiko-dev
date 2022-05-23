@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://niiko.tech/">Niiko</a></b>
+                <b><a target="_blank" href="https://i.imgur.com/UyW0vnm.png">Niiko</a></b>
         </samp>
 </h3>
 <br>
