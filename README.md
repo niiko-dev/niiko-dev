@@ -23,13 +23,13 @@
         <a href="https://github.com/niiko-dev" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
-        <!-- GO  -->
-        <a href="https://github.com/niiko-dev" target="_blank"><img alt="GO"
-                        src="https://img.shields.io/badge/-GO-64a6b3?style=flat-square&logo=go&logoColor=white">
-        </a>
         <!-- C# -->
         <a href="https://github.com/niiko-dev" target="_blank"><img alt="C#"
                         src="https://img.shields.io/badge/-C%23-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>
+        <!-- GO  -->
+        <a href="https://github.com/niiko-dev" target="_blank"><img alt="GO"
+                        src="https://img.shields.io/badge/-GO-64a6b3?style=flat-square&logo=go&logoColor=white">
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/niiko-dev" target="_blank"><img alt="JavaScript"
