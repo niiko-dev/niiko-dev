@@ -51,7 +51,7 @@
     </p>
 </samp>
 
-<!-- Pinned Repositories -->
+<!-- Pinned Repositories  -->
 #### Pinned
 
 <p align="center">
