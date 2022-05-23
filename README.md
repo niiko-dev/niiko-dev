@@ -25,7 +25,7 @@
         </a>
         <!-- GO  -->
         <a href="https://github.com/niiko-dev" target="_blank"><img alt="GO"
-                        src="https://img.shields.io/badge/-GO-1572B6?style=flat-square&logo=go&logoColor=white">
+                        src="https://img.shields.io/badge/-GO-78ccdc?style=flat-square&logo=go&logoColor=white">
         </a>
         <!-- C# -->
         <a href="https://github.com/niiko-dev" target="_blank"><img alt="C#"
