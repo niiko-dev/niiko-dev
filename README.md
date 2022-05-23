@@ -56,10 +56,10 @@
 
 <p align="center">
 <a href="https://github.com/niiko-dev/notification-api">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=notification-api&border_color=028dd8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=028dd8" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=notification-api&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/niiko-dev/javascript-tricks">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=javascript-tricks&border_color=028dd8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=028dd8" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=niiko-dev&repo=javascript-tricks&border_color=0294d8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0294d8" />
 </a>
 </p>
