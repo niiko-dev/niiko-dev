@@ -33,7 +33,7 @@
         </a>
         <!-- C# -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C#"
-                        src="https://img.shields.io/badge/-C%23-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white">
+                        src="https://img.shields.io/badge/-C%23-3776AB?style=flat-square&logo=C&logoColor=white">
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
